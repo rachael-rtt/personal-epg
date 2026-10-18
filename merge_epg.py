@@ -208,9 +208,17 @@ def main():
         temp.replace(public / name)
     (public / 'status.json').write_text(json.dumps({k: report[k] for k in
         ['generated_utc', 'requested_ids', 'covered_ids', 'programme_count']}, indent=2), encoding='utf-8')
+    (public / 'coverage.json').write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding='utf-8')
     (public / 'index.html').write_text('<!doctype html><meta charset="utf-8"><title>Personal EPG</title>'
-        '<h1>Personal EPG</h1><p><a href="epg.xml">XML guide</a> | '
-        '<a href="epg.xml.gz">Compressed guide</a> | <a href="status.json">Update status</a></p>', encoding='utf-8')
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        '<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:24px;background:#f4f7fb;color:#18283c}a{color:#185db5}code{overflow-wrap:anywhere}</style>'
+        '<h1>Your TiviMate programme guide</h1>'
+        f"<p><b>{report['covered_ids']:,} of {len(wanted):,} playlist channel IDs have current listings.</b><br>"
+        f"{report['programme_count']:,} programmes. Updated {now.strftime('%d %B %Y at %H:%M UTC')}.</p>"
+        '<p>EPG address to enter in TiviMate:<br><code>https://rachael-rtt.github.io/personal-epg/epg.xml</code></p>'
+        '<p>Refresh is scheduled daily at 20:37 UTC. Some playlist channels have no matching guide data; your playlist is unchanged.</p>'
+        '<p><a href="epg.xml">XML guide</a> | <a href="epg.xml.gz">Compressed guide</a> | '
+        '<a href="status.json">Update status</a> | <a href="coverage.json">Full coverage report</a></p>', encoding='utf-8')
 
 
 if __name__ == '__main__':
