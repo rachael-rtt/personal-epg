@@ -70,24 +70,17 @@
       "url": "https://www.open-epg.com/files/italy4.xml.gz"
     },
     {
-      "name": "italy5",
-      "url": "https://www.open-epg.com/files/italy5.xml.gz"
-    },
-    {
-      "name": "italy7",
-      "url": "https://www.open-epg.com/files/italy7.xml.gz"
-    },
-    {
-      "name": "italy8",
-      "url": "https://www.open-epg.com/files/italy8.xml.gz"
-    },
-    {
       "name": "malta1",
       "url": "https://www.open-epg.com/files/malta1.xml.gz"
     },
     {
       "name": "australia",
       "url": "https://www.open-epg.com/files/australia.xml.gz"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz",
+      "name": "xumo"
     }
   ]
 }
+
