@@ -1,0 +1,93 @@
+{
+  "channels": "channels.json",
+  "mappings": "mappings.json",
+  "coverage_reviewed": false,
+  "minimum_covered_ids": 2587,
+  "required_ids": [],
+  "sources": [
+    {
+      "name": "unitedstates9",
+      "url": "https://www.open-epg.com/files/unitedstates9.xml.gz"
+    },
+    {
+      "name": "unitedstates1",
+      "url": "https://www.open-epg.com/files/unitedstates1.xml.gz"
+    },
+    {
+      "name": "unitedstates2",
+      "url": "https://www.open-epg.com/files/unitedstates2.xml.gz"
+    },
+    {
+      "name": "unitedstates3",
+      "url": "https://www.open-epg.com/files/unitedstates3.xml.gz"
+    },
+    {
+      "name": "unitedstates4",
+      "url": "https://www.open-epg.com/files/unitedstates4.xml.gz"
+    },
+    {
+      "name": "unitedstates5",
+      "url": "https://www.open-epg.com/files/unitedstates5.xml.gz"
+    },
+    {
+      "name": "unitedstates6",
+      "url": "https://www.open-epg.com/files/unitedstates6.xml.gz"
+    },
+    {
+      "name": "unitedstates7",
+      "url": "https://www.open-epg.com/files/unitedstates7.xml.gz"
+    },
+    {
+      "name": "unitedstates8",
+      "url": "https://www.open-epg.com/files/unitedstates8.xml.gz"
+    },
+    {
+      "name": "unitedstates10",
+      "url": "https://www.open-epg.com/files/unitedstates10.xml.gz"
+    },
+    {
+      "name": "unitedstates11",
+      "url": "https://www.open-epg.com/files/unitedstates11.xml.gz"
+    },
+    {
+      "name": "unitedkingdom",
+      "url": "https://www.open-epg.com/files/unitedkingdom.xml.gz"
+    },
+    {
+      "name": "italy1",
+      "url": "https://www.open-epg.com/files/italy1.xml.gz"
+    },
+    {
+      "name": "italy2",
+      "url": "https://www.open-epg.com/files/italy2.xml.gz"
+    },
+    {
+      "name": "italy3",
+      "url": "https://www.open-epg.com/files/italy3.xml.gz"
+    },
+    {
+      "name": "italy4",
+      "url": "https://www.open-epg.com/files/italy4.xml.gz"
+    },
+    {
+      "name": "italy5",
+      "url": "https://www.open-epg.com/files/italy5.xml.gz"
+    },
+    {
+      "name": "italy7",
+      "url": "https://www.open-epg.com/files/italy7.xml.gz"
+    },
+    {
+      "name": "italy8",
+      "url": "https://www.open-epg.com/files/italy8.xml.gz"
+    },
+    {
+      "name": "malta1",
+      "url": "https://www.open-epg.com/files/malta1.xml.gz"
+    },
+    {
+      "name": "australia",
+      "url": "https://www.open-epg.com/files/australia.xml.gz"
+    }
+  ]
+}
