@@ -1,0 +1,5 @@
+__pycache__/
+public/
+reports/
+*.m3u
+*.m3u8
