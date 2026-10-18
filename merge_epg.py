@@ -51,23 +51,36 @@ def key(value):
     return re.sub(r'[^a-z0-9]', '', value.casefold())
 
 
-def merge(wanted, sources, mappings, now):
+def merge(wanted, sources, mappings, now, audit=False):
     candidates = defaultdict(list)
     inventory = []
     diagnostics = []
     invalid = 0
     for rank, source in enumerate(sources):
-        root = read_xml(source['url'])
+        print('Reading source: ' + source['name'], flush=True)
+        try:
+            root = read_xml(source['url'])
+        except Exception as error:
+            reason = str(error) if isinstance(error, ValueError) else type(error).__name__
+            print('Source failed: ' + source['name'] + ': ' + reason, flush=True)
+            if not audit:
+                raise
+            diagnostics.append({'name': source['name'], 'error': reason})
+            continue
         channel_map = {}
+        duplicate_ids = []
         for element in root.findall('channel'):
             sid = element.get('id', '')
             if not sid:
                 continue
             if sid in channel_map:
-                raise ValueError('Duplicate channel ID within source ' + source['name'])
+                duplicate_ids.append(sid)
+                continue
             channel_map[sid] = element
             inventory.append({'source': source['name'], 'source_id': sid,
                               'names': [x.text or '' for x in element.findall('display-name')]})
+        if duplicate_ids and not audit:
+            raise ValueError('Duplicate channel ID within source ' + source['name'])
         targets = defaultdict(list)
         for target in wanted:
             explicit = mappings.get(target)
@@ -98,7 +111,10 @@ def merge(wanted, sources, mappings, now):
             for target in targets[sid]:
                 candidates[target].append((rank, start, stop, programme, channel_map[sid]))
         diagnostics.append({'name': source['name'], 'channels': len(channel_map),
+                            'duplicate_ids': duplicate_ids,
                             'usable_matching_programmes': usable})
+        print('Source inspected: ' + source['name'] + '; channels=' + str(len(channel_map))
+              + '; duplicate IDs=' + str(len(duplicate_ids)), flush=True)
     output = ET.Element('tv', {'generator-info-name': 'Personal XMLTV merger'})
     programmes = []
     covered, overlaps = [], 0
@@ -159,7 +175,7 @@ def main():
     if unknown:
         raise ValueError('Mapping targets are not present in the playlist')
     now = datetime.now(timezone.utc)
-    root, report, inventory = merge(wanted, config['sources'], mappings, now)
+    root, report, inventory = merge(wanted, config['sources'], mappings, now, audit=args.audit)
     reports = Path('reports')
     reports.mkdir(exist_ok=True)
     for name, value in [('coverage.json', report), ('source-channels.json', inventory)]:
@@ -196,3 +212,4 @@ if __name__ == '__main__':
         # Avoid logging credential-bearing source URLs from network exceptions.
         print('Build failed; no deployment. Error type: ' + type(error).__name__, file=sys.stderr)
         sys.exit(1)
+
