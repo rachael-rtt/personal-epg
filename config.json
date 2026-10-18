@@ -1,9 +1,13 @@
 {
   "channels": "channels.json",
   "mappings": "mappings.json",
-  "coverage_reviewed": false,
-  "minimum_covered_ids": 2587,
-  "required_ids": [],
+  "coverage_reviewed": true,
+  "minimum_covered_ids": 380,
+  "required_ids": [
+    "NBCComedyVault.us@SD",
+    "SNLVault.us@SD",
+    "PlutoTVComedy.us@US"
+  ],
   "sources": [
     {
       "name": "unitedstates9",
