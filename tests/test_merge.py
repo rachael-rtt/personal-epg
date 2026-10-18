@@ -72,6 +72,25 @@ class MergerTests(unittest.TestCase):
     def test_timezone_conversion(self):
         self.assertEqual(timestamp('20261018140000 +0200'), NOW)
 
+    def test_identical_duplicate_channel_definitions_coalesce(self):
+        data = xml('a', [('20261018120000 +0000','20261018130000 +0000','Show')])
+        data = data.replace(b'</tv>', b'<channel id="a"><display-name>Test</display-name></channel></tv>')
+        root, report, _ = merge({'a':'A'}, [self.source('dup', data)], {}, NOW)
+        self.assertEqual(len(root.findall('channel')), 1)
+        self.assertEqual(report['covered_ids'], 1)
+        conflict = data.replace(b'<display-name>Test</display-name></channel></tv>', b'<display-name>Other</display-name></channel></tv>')
+        with self.assertRaises(ValueError):
+            merge({'a':'A'}, [self.source('conflict', conflict)], {}, NOW)
+
+    def test_alternative_mapping_sources_fill_gaps(self):
+        one = self.source('one', xml('a', [('20261018120000 +0000','20261018130000 +0000','First')]))
+        two = self.source('two', xml('b', [('20261018130000 +0000','20261018140000 +0000','Next')]))
+        mapping = {'target': [{'source':'one','source_id':'a'}, {'source':'two','source_id':'b'}]}
+        root, report, _ = merge({'target':'A'}, [one, two], mapping, NOW)
+        self.assertEqual(report['covered_ids'], 1)
+        self.assertEqual([p.findtext('title') for p in root.findall('programme')], ['First','Next'])
+
 
 if __name__ == '__main__':
     unittest.main()
+
