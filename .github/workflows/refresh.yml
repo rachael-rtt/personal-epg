@@ -1,0 +1,57 @@
+name: Refresh EPG
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 20 * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: epg-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      reviewed: ${{ steps.review.outputs.reviewed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test merger
+        run: python -m unittest discover -s tests -v
+      - name: Check publication setting
+        id: review
+        run: |
+          python -c "import json,os; c=json.load(open('config.json')); open(os.environ['GITHUB_OUTPUT'],'a').write('reviewed='+str(c.get('coverage_reviewed',False)).lower()+'\n')"
+      - name: Audit guide coverage
+        if: steps.review.outputs.reviewed != 'true'
+        run: python merge_epg.py --audit
+      - name: Build approved guide
+        if: steps.review.outputs.reviewed == 'true'
+        run: python merge_epg.py
+      - name: Save coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: reports/
+          retention-days: 7
+          if-no-files-found: warn
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.review.outputs.reviewed == 'true'
+        with:
+          path: public
+  deploy:
+    needs: build
+    if: needs.build.outputs.reviewed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
