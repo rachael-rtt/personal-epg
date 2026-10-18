@@ -69,26 +69,33 @@ def merge(wanted, sources, mappings, now, audit=False):
             continue
         channel_map = {}
         duplicate_ids = []
+        conflicting_ids = []
         for element in root.findall('channel'):
             sid = element.get('id', '')
             if not sid:
                 continue
             if sid in channel_map:
                 duplicate_ids.append(sid)
+                old_names = {x.text for x in channel_map[sid].findall('display-name')}
+                new_names = {x.text for x in element.findall('display-name')}
+                if old_names != new_names:
+                    conflicting_ids.append(sid)
                 continue
             channel_map[sid] = element
             inventory.append({'source': source['name'], 'source_id': sid,
                               'names': [x.text or '' for x in element.findall('display-name')]})
-        if duplicate_ids and not audit:
-            raise ValueError('Duplicate channel ID within source ' + source['name'])
         targets = defaultdict(list)
         for target in wanted:
             explicit = mappings.get(target)
             if explicit is not None:
-                if explicit.get('source') == source['name']:
-                    targets[explicit['source_id']].append(target)
+                alternatives = explicit if isinstance(explicit, list) else [explicit]
+                for item in alternatives:
+                    if item.get('source') == source['name']:
+                        targets[item['source_id']].append(target)
             elif target in channel_map:
                 targets[target].append(target)
+        if set(conflicting_ids) & set(targets) and not audit:
+            raise ValueError('Ambiguous duplicate channel ID in source ' + source['name'])
         usable = 0
         for programme in root.findall('programme'):
             sid = programme.get('channel', '')
@@ -112,6 +119,7 @@ def merge(wanted, sources, mappings, now, audit=False):
                 candidates[target].append((rank, start, stop, programme, channel_map[sid]))
         diagnostics.append({'name': source['name'], 'channels': len(channel_map),
                             'duplicate_ids': duplicate_ids,
+                            'conflicting_ids': conflicting_ids,
                             'usable_matching_programmes': usable})
         print('Source inspected: ' + source['name'] + '; channels=' + str(len(channel_map))
               + '; duplicate IDs=' + str(len(duplicate_ids)), flush=True)
