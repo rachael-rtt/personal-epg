@@ -1,1843 +1,4403 @@
 {
-  "00sReplay.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "00s Replay.us"
-  },
-  "20.it@SD": {
-    "source": "italy2",
-    "source_id": "20.it"
-  },
-  "48Hours.us@US": {
-    "source": "unitedstates9",
-    "source_id": "48 Hours.us"
-  },
-  "50CentAction.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "50 Cent Action.us"
-  },
-  "5USA.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "5USA.uk"
-  },
-  "70sCinema.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "70s Cinema.us"
-  },
-  "80sRewind.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "80s Rewind.us"
-  },
-  "90sKids.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "90's Kids.us"
-  },
-  "90sKidsTV2.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "90s Kids TV 2.us"
-  },
-  "90sThrowback.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "90s Throwback.us"
-  },
-  "ABCNewsLive.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "ABC News Live.us"
-  },
-  "ACCNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "ACC Network.us"
-  },
-  "ACISportTV.it@SD": {
-    "source": "italy1",
-    "source_id": "ACI Sport Tv.it"
-  },
-  "ALLBLKGems.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "ALLBLK Gems.us"
-  },
-  "AMGTV.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "AMG TV.us"
-  },
-  "AWE.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "AWE.us"
-  },
-  "AXSTV.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "AXSTV.us"
-  },
-  "AcapulcoShore.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Acapulco Shore.us"
-  },
-  "AkaalChannel.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "AkaalChannel.uk"
-  },
-  "AlmaTV.it@SD": {
-    "source": "italy3",
-    "source_id": "Alma TV.it"
-  },
-  "AmericanHeroesChannel.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "American Heroes Channel.us"
-  },
-  "AmericasNextTopModel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "America's Next Top Model.us"
-  },
-  "AmericasTestKitchen.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "America's Test Kitchen.us"
-  },
-  "AmericasVoiceNews.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "America's Voice News.us"
-  },
-  "AnimexHIDIVE.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "ANIME x HIDIVE.us"
-  },
-  "AntiquesRoadTrip.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Antiques Road Trip.us"
-  },
-  "AntiquesRoadshowUK.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Antiques Roadshow UK.us"
-  },
-  "BBCAlba.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCAlba.uk"
-  },
-  "BBCFour.uk@UK": {
-    "source": "unitedkingdom",
-    "source_id": "BBCFour.uk"
-  },
-  "BBCFourCBeebies.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCFourCBeebies.uk"
-  },
-  "BBCParliament.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCParliament.uk"
-  },
-  "BBCScotland.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCScotland.uk"
-  },
-  "BBCThree.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCThree.uk"
-  },
-  "BBCThree.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCThree.uk"
-  },
-  "BBCThreeCBBC.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCThreeCBBC.uk"
-  },
-  "BBCTwo.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "BBCTwo.uk"
-  },
-  "BETCinema.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BET Cinema.us"
-  },
-  "BETComedyMovies.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BET Comedy Movies.us"
-  },
-  "BETPlutoTV.us@US": {
-    "source": "unitedstates9",
-    "source_id": "BET Pluto TV.us"
-  },
-  "BETThrowbacks.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BET Throwbacks.us"
-  },
-  "BETVisionaries.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BET Visionaries.us"
-  },
-  "BYUTV.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "BYUTV.us"
-  },
-  "BabyFirst.us@US": {
-    "source": "unitedstates7",
-    "source_id": "BabyFirst.us"
-  },
-  "BabySharkTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Baby Shark TV.us"
-  },
-  "BabyTV.uk@UK": {
-    "source": "unitedkingdom",
-    "source_id": "BabyTV.uk"
-  },
-  "BarRescue.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Bar Rescue.us"
-  },
-  "BattlestarGalactica.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Battlestar Galactica.us"
-  },
-  "BellatorMMA.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Bellator MMA.us"
-  },
-  "BerksCommunityTV.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Berks Community TV HD.us"
-  },
-  "BestofDrPhil.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Best of Dr. Phil.us"
-  },
-  "BeverlyHillbillies.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Beverly Hillbillies.us"
-  },
-  "BeverlyHills90210.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Beverly Hills 90210.us"
-  },
-  "BeyondtheGates.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Beyond the Gates.us"
-  },
-  "BigBrother.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Big Brother.us"
-  },
-  "BigTenNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Big Ten Network.us"
-  },
-  "BlackFamilySitcoms.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Black Family Sitcoms.us"
-  },
-  "BlackInkCrew.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Black Ink Crew.us"
-  },
-  "Blaze.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Blaze.uk"
-  },
-  "BlazeLive.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Blaze Live.us"
-  },
-  "BloombergTV.us@US": {
-    "source": "unitedstates7",
-    "source_id": "Bloomberg TV.us"
-  },
-  "BlueBloods.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Blue Bloods.us"
-  },
-  "Bonanza.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Bonanza.us"
-  },
-  "Boomerang.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Boomerang.us"
-  },
-  "Bounce.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Bounce HD.us"
-  },
-  "BounceXL.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Bounce XL.us"
-  },
-  "BritBoxMysteries.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BritBox Mysteries.us"
-  },
-  "Buzzr.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "BUZZR.us"
-  },
-  "CANTV19.us@SD": {
-    "source": "unitedstates6",
-    "source_id": "CANTV19.us"
-  },
-  "CANTV21.us@SD": {
-    "source": "unitedstates6",
-    "source_id": "CANTV21.us"
-  },
-  "CANTV36.us@SD": {
-    "source": "unitedstates6",
-    "source_id": "CANTV36.us"
-  },
-  "CBBC.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "CBBC.uk"
-  },
-  "CBBC.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "CBBC.uk"
-  },
-  "CBNNews.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "CBNNEWS.us"
-  },
-  "CBSNews247.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News 24/7.us"
-  },
-  "CBSNewsBaltimore.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Baltimore.us"
-  },
-  "CBSNewsBayArea.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Bay Area.us"
-  },
-  "CBSNewsBoston.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Boston.us"
-  },
-  "CBSNewsChicago.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Chicago.us"
-  },
-  "CBSNewsColorado.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Colorado.us"
-  },
-  "CBSNewsDetroit.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Detroit.us"
-  },
-  "CBSNewsLosAngeles.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Los Angeles.us"
-  },
-  "CBSNewsMiami.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Miami.us"
-  },
-  "CBSNewsMinnesota.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Minnesota.us"
-  },
-  "CBSNewsNewYork.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News New York.us"
-  },
-  "CBSNewsPittsburgh.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Pittsburgh.us"
-  },
-  "CBSNewsSacramento.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS News Sacramento.us"
-  },
-  "CBSSportsHQ.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CBS Sports HQ.us"
-  },
-  "CBeebies.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "CBeebies.uk"
-  },
-  "CBeebies.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "CBeebies.uk"
-  },
-  "CMTEqualPlay.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CMT Equal Play.us"
-  },
-  "CMTV.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "CMTV.us"
-  },
-  "CNBC.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "CNBC.us"
-  },
-  "CNN.us@HD": {
-    "source": "unitedstates1",
-    "source_id": "CNN.us"
-  },
-  "CNN.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "CNN.us"
-  },
-  "CNNOriginals.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CNN Originals.us"
-  },
-  "CSI.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CSI.us"
-  },
-  "CSIMiami.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CSI: Miami.us"
-  },
-  "CSINY.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "CSI: NY.us"
-  },
-  "Canale5.it@HD": {
-    "source": "italy1",
-    "source_id": "Canale 5 HD.it"
-  },
-  "Canale5.it@SD": {
-    "source": "italy1",
-    "source_id": "Canale 5 HD.it"
-  },
-  "CarChase.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Car Chase.us"
-  },
-  "CatholicFaithNetwork.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Catholic Faith Network.us"
-  },
-  "Channel4.uk@UK": {
-    "source": "unitedkingdom",
-    "source_id": "Channel4.uk"
-  },
-  "Channel44.au@SD": {
-    "source": "australia",
-    "source_id": "Channel44.au"
-  },
-  "Charge.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Charge!.us"
-  },
-  "Cine34.it@HD": {
-    "source": "italy1",
-    "source_id": "Cine34 HD.it"
-  },
-  "Cine34.it@SD": {
-    "source": "italy1",
-    "source_id": "Cine34 HD.it"
-  },
-  "CineAdrenalina.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Cine adrenalina.us"
-  },
-  "CineAmor.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Cine Amor.us"
-  },
-  "CinePremiere.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Cine Premiere.us"
-  },
-  "CineTerror.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Cine terror.us"
-  },
-  "Cineaventura.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Cine aventura.us"
-  },
-  "ClassCNBC.it@SD": {
-    "source": "italy1",
-    "source_id": "Class CNBC.it"
-  },
-  "ClassicArtsShowcase.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Classic Arts Showcase.us"
-  },
-  "ClassicMovieWesterns.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classic Movie Westerns.us"
-  },
-  "ClassicMoviesChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classic Movies Channel.us"
-  },
-  "ClassicTVComedy.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classic TV Comedy.us"
-  },
-  "ClassicTVCrimeDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classic TV Crime Drama.us"
-  },
-  "ClassicTVDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classic TV Drama.us"
-  },
-  "ClassicTVFamilies.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Classic TV: Families.us"
-  },
-  "Classica.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Classica.us"
-  },
-  "ComedyCentralPlutoTV.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Comedy Central Pluto TV.us"
-  },
-  "Comet.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Comet.us"
-  },
-  "ConcertChannel.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Concert Channel HD.us"
-  },
-  "CookingChannel.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Cooking Channel.us"
-  },
-  "Cops.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "COPS.us"
-  },
-  "CourtTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Court TV.us"
-  },
-  "Create.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Create.us"
-  },
-  "Crunchyroll.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Crunchyroll.us"
-  },
-  "DCCMakingtheTeam.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "DCC: Making the Team.us"
-  },
-  "DMAX.it@SD": {
-    "source": "italy1",
-    "source_id": "DMAX HD.it"
-  },
-  "Dateline247.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Dateline 24/7.us"
-  },
-  "DatingDisasters.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Dating Disasters.us"
-  },
-  "DealorNoDeal.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Deal or No Deal.us"
-  },
-  "DeejayTV.it@SD": {
-    "source": "italy1",
-    "source_id": "Deejay TV.it"
-  },
-  "DeenTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "DeenTV.uk"
-  },
-  "Degrassi.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Degrassi.us"
-  },
-  "DestinationAmerica.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Destination America.us"
-  },
-  "DiscoveryChannel.it@SD": {
-    "source": "italy4",
-    "source_id": "Discovery Channel.it"
-  },
-  "DiscoveryTurbo.it@SD": {
-    "source": "italy3",
-    "source_id": "Discovery Turbo.it"
-  },
-  "DiscoveryTurbo.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Discovery Turbo HD.us"
-  },
-  "DoctorWhoClassic.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Doctor Who Classic.us"
-  },
-  "DogtheBountyHunter.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Dog the Bounty Hunter.us"
-  },
-  "DonnaTV.it@SD": {
-    "source": "italy3",
-    "source_id": "DonnaTv.it"
-  },
-  "Dynasty.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Dynasty.us"
-  },
-  "E4.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "E4.uk"
-  },
-  "ESPN.us@HD": {
-    "source": "unitedstates1",
-    "source_id": "ESPN.us"
-  },
-  "ESPN.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "ESPN.us"
-  },
-  "ESPN2.us@HD": {
-    "source": "unitedstates1",
-    "source_id": "ESPN2.us"
-  },
-  "ESPNDeportes.us@HD": {
-    "source": "unitedstates4",
-    "source_id": "ESPN Deportes.us"
-  },
-  "ESPNU.us@HD": {
-    "source": "unitedstates1",
-    "source_id": "ESPNU.us"
-  },
-  "ESPNU.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "ESPNU.us"
-  },
-  "EmanChannel.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "EmanChannel.uk"
-  },
-  "EstrellaNews.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Estrella News.us"
-  },
-  "EstrellaTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "EstrellaTV.us"
-  },
-  "FailArmy.us@US": {
-    "source": "unitedstates9",
-    "source_id": "FailArmy.us"
-  },
-  "FaithTV.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "FaithTV HD.us"
-  },
-  "FaithUK.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "FaithUK.uk"
-  },
-  "FaithWorldTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "FaithWorldTV.uk"
-  },
-  "FamilyTies.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Family Ties.us"
-  },
-  "FeelGoodDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Feel Good Drama.us"
-  },
-  "FlicksofFury.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Flicks of Fury.us"
-  },
-  "FoodNetwork.it@SD": {
-    "source": "italy1",
-    "source_id": "Food Network HD.it"
-  },
-  "ForensicFiles.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Forensic Files.us"
-  },
-  "ForeverKids.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Forever Kids.us"
-  },
-  "FoxBusinessNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Fox Business Network.us"
-  },
-  "FoxDeportes.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "FOX Deportes.us"
-  },
-  "FoxNewsChannel.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "Fox News Channel.us"
-  },
-  "FoxSports1.us@HD": {
-    "source": "unitedstates5",
-    "source_id": "FOX Sports 1.us"
-  },
-  "FoxSportsNews.au@SD": {
-    "source": "australia",
-    "source_id": "FoxSportsNews.au"
-  },
-  "FoxWeather.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "FOX Weather.us"
-  },
-  "FreeSpeechTV.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Free Speech TV.us"
-  },
-  "FunnyAF.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Funny AF.us"
-  },
-  "GBNews.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "GBNews.uk"
-  },
-  "GODTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "GODTV.uk"
-  },
-  "GREATmovies.uk@UK": {
-    "source": "unitedkingdom",
-    "source_id": "GreatMovies.uk"
-  },
-  "GameShowCentral.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Game Show Central.us"
-  },
-  "GarfieldandFriends.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Garfield and Friends.us"
-  },
-  "GemShoppingNetwork.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Gem Shopping Network HD.us"
-  },
-  "GolazoNetwork.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Golazo Network.us"
-  },
-  "GordonRamsaysHellsKitchen.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Gordon Ramsay's Hell's Kitchen.us"
-  },
-  "Gunsmoke.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Gunsmoke.us"
-  },
-  "HGTV.it@SD": {
-    "source": "italy1",
-    "source_id": "HGTV HD.it"
-  },
-  "HLN.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "HLN.us"
-  },
-  "HSN2.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "HSN2.us"
-  },
-  "HappyDays.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Happy Days.us"
-  },
-  "HistoryHit.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "HistoryHit.uk"
-  },
-  "HobbyMaker.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "HobbyMaker.uk"
-  },
-  "HogansHeroes.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Hogan's Heroes.us"
-  },
-  "HomeMadeNation.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Home.Made.Nation.us"
-  },
-  "HorseTV.it@SD": {
-    "source": "italy1",
-    "source_id": "Horse TV HD.it"
-  },
-  "HotBench.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Hot Bench.us"
-  },
-  "ILoveLucy.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "I Love Lucy.us"
-  },
-  "ITV2.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "ITV2.uk"
-  },
-  "ITV3.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "ITV3.uk"
-  },
-  "ITV4.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "ITV4.uk"
-  },
-  "InkMaster.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Ink Master.us"
-  },
-  "InterTV.it@SD": {
-    "source": "italy1",
-    "source_id": "Inter TV.it"
-  },
-  "Investiga.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Investiga.us"
-  },
-  "IonTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "IONTV.uk"
-  },
-  "IqraBangla.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "IQRABangla.uk"
-  },
-  "IqraTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "IQRATV.uk"
-  },
-  "Iris.it@HD": {
-    "source": "italy1",
-    "source_id": "Iris HD.it"
-  },
-  "Iris.it@SD": {
-    "source": "italy1",
-    "source_id": "Iris HD.it"
-  },
-  "IslamChannel.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "IslamChannel.uk"
-  },
-  "Italia1.it@SD": {
-    "source": "italy1",
-    "source_id": "Italia 1 HD.it"
-  },
-  "Italia2.it@SD": {
-    "source": "italy2",
-    "source_id": "Italia2.it"
-  },
-  "JBS.us@SD": {
-    "source": "unitedstates2",
-    "source_id": "JBS.us"
-  },
-  "JerseyShore.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Jersey Shore.us"
-  },
-  "JewishLifeTelevision.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Jewish Life Television HD.us"
-  },
-  "JudgeNosey.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Judge Nosey.us"
-  },
-  "JusOne.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Jus One.us"
-  },
-  "JusPunjabi.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Jus Punjabi.us"
-  },
-  "KanshiTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "KanshiTV.uk"
-  },
-  "KartoonChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Kartoon Channel!.us"
-  },
-  "KidsMovieClub.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Kids Movie Club.us"
-  },
-  "LA7.it@HD": {
-    "source": "italy1",
-    "source_id": "LA7 HD.it"
-  },
-  "LEGOKidsTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "LEGO Kids TV.us"
-  },
-  "La5.it@SD": {
-    "source": "italy1",
-    "source_id": "La 5 HD.it"
-  },
-  "La7Cinema.it@HD": {
-    "source": "italy3",
-    "source_id": "La7 Cinema.it"
-  },
-  "Laff.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Laff.us"
-  },
-  "LazioStyleChannel.it@HD": {
-    "source": "italy4",
-    "source_id": "Lazio Style Channel.it"
-  },
-  "LittleStarsUniverse.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Little Stars Universe.us"
-  },
-  "LiveMusic.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Live Music.us"
-  },
-  "LiveNOWfromFOX.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "LiveNOW from FOX.us"
-  },
-  "LogoPlutoTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Logo Pluto TV.us"
-  },
-  "MBC.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "MBC.uk"
-  },
-  "MLB.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "MLB.us"
-  },
-  "MSG.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "MSG.us"
-  },
-  "MSNOW.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "MSNOW.us"
-  },
-  "MST3K.us@US": {
-    "source": "unitedstates9",
-    "source_id": "MST3K.us"
-  },
-  "MTA1World.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "MTA1World.uk"
-  },
-  "MTVBiggestPop.us@US": {
-    "source": "unitedstates9",
-    "source_id": "MTV Biggest Pop.us"
-  },
-  "MTVFlowLatino.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "MTV Flow Latino.us"
-  },
-  "MTVLive.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "MTVLIVE.us"
-  },
-  "MTVPlutoTV.us@US": {
-    "source": "unitedstates9",
-    "source_id": "MTV Pluto TV.us"
-  },
-  "MTVSpankinNew.us@US": {
-    "source": "unitedstates9",
-    "source_id": "MTV Spankin' New.us"
-  },
-  "MUTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "MUTV.uk"
-  },
-  "Matlock.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Matlock.us"
-  },
-  "MeTV.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Me TV.us"
-  },
-  "MeritStreet.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "merit street.us"
-  },
-  "MidsomerMurders.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Midsomer Murders.us"
-  },
-  "MilitaryHistory.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Military History.us"
-  },
-  "MissionImpossible.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Mission Impossible.us"
-  },
-  "Misteriossinresolver.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Misterios sin resolver.us"
-  },
-  "MonsterJam.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Monster Jam.us"
-  },
-  "More4.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "More4.uk"
-  },
-  "MoreTVDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "More TV Drama.us"
-  },
-  "MoreTVSitcoms.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "More TV Sitcoms.us"
-  },
-  "MoreTrueCrime.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "More True Crime.us"
-  },
-  "NBATV.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "NBATV.us"
-  },
-  "NBCNewsNOW.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "NBC News NOW.us"
-  },
-  "NBCSportsNOW.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "NBC Sports NOW.us"
-  },
-  "NET.mt@SD": {
-    "source": "malta1",
-    "source_id": "NET HD.mt"
-  },
-  "NFLChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "NFL Channel.us"
-  },
-  "NFLNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "NFL Network.us"
-  },
-  "NHLNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "NHL Network.us"
-  },
-  "NOWRock.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "NowRock.uk"
-  },
-  "Naruto.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Naruto.us"
-  },
-  "NashBridges.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Nash Bridges.us"
-  },
-  "News12NewYork.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "News 12 New York.us"
-  },
-  "News24.au@SD": {
-    "source": "australia",
-    "source_id": "News24.au"
-  },
-  "Newsmax2.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Newsmax2.us"
-  },
-  "NickJr.it@SD": {
-    "source": "italy1",
-    "source_id": "Nick Jr.it"
-  },
-  "NickJrPlutoTV.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Nick Jr. Pluto TV.us"
-  },
-  "Nickelodeon.it@SD": {
-    "source": "italy1",
-    "source_id": "Nickelodeon.it"
-  },
-  "Nickelodeon.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Nickelodeon.uk"
-  },
-  "NickelodeonPlutoTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Nickelodeon Pluto TV.us"
-  },
-  "NollyAfrica.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "NollyAfrica.uk"
-  },
-  "NoorTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "NoorTV.uk"
-  },
-  "Nosey.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Nosey.us"
-  },
-  "Now70s.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Now70s.uk"
-  },
-  "Now80s.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Now80s.uk"
-  },
-  "OANPlus.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "OAN Plus.us"
-  },
-  "One.mt@SD": {
-    "source": "malta1",
-    "source_id": "ONE HD.mt"
-  },
-  "OneAmericaNewsNetwork.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "One America News Network HD.us"
-  },
-  "OnePiece.us@US": {
-    "source": "unitedstates9",
-    "source_id": "One Piece.us"
-  },
-  "OutdoorChannel.us@HD": {
-    "source": "unitedstates4",
-    "source_id": "Outdoor Channel.us"
-  },
-  "OutdoorChannel.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Outdoor Channel.us"
-  },
-  "PBRRidePass.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "PBR RidePass.us"
-  },
-  "PBSAntiquesRoadshow.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "PBS Antiques Roadshow.us"
-  },
-  "PBSKids.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "PBS Kids.us"
-  },
-  "PBSNature.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "PBS Nature.us"
-  },
-  "PFLMMA.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "PFL MMA.us"
-  },
-  "PGATour.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "PGA TOUR.us"
-  },
-  "ParamountMovieChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Paramount Movie Channel.us"
-  },
-  "PeppaPig.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Peppa Pig.us"
-  },
-  "PerryMason.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Perry Mason.us"
-  },
-  "PlutoTVAction.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Action.us"
-  },
-  "PlutoTVAdventure.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Adventure.us"
-  },
-  "PlutoTVAnime.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Anime.us"
-  },
-  "PlutoTVAnimeMovies.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Anime Movies.us"
-  },
-  "PlutoTVCars.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Cars.us"
-  },
-  "PlutoTVComedy.us@US": {
-    "source_id": "Pluto TV Comedy.us",
-    "source": "unitedstates9"
-  },
-  "PlutoTVCompetition.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Competition.us"
-  },
-  "PlutoTVCrimeDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Crime Drama.us"
-  },
-  "PlutoTVCrimeMovies.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Crime Movies.us"
-  },
-  "PlutoTVCultFilms.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Cult Films.us"
-  },
-  "PlutoTVDrama.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Drama.us"
-  },
-  "PlutoTVFantastic.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Fantastic.us"
-  },
-  "PlutoTVFranchiseFavorites.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Franchise Favorites.us"
-  },
-  "PlutoTVGameShows.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Game Shows.us"
-  },
-  "PlutoTVHistory.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV History.us"
-  },
-  "PlutoTVHometownDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Hometown Drama.us"
-  },
-  "PlutoTVHorror.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Horror.us"
-  },
-  "PlutoTVIcons.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Icons.us"
-  },
-  "PlutoTVLives.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Lives.us"
-  },
-  "PlutoTVMilitary.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Military.us"
-  },
-  "PlutoTVNovelas.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Novelas.us"
-  },
-  "PlutoTVParanormal.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Paranormal.us"
-  },
-  "PlutoTVReaction.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Reaction.us"
-  },
-  "PlutoTVReality.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Reality.us"
-  },
-  "PlutoTVRomance.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Romance.us"
-  },
-  "PlutoTVSciFi.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Sci Fi.us"
-  },
-  "PlutoTVScience.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Science.us"
-  },
-  "PlutoTVSpotlight.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Spotlight.us"
-  },
-  "PlutoTVStaffPicks.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Staff Picks.us"
-  },
-  "PlutoTVTerror.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Terror.us"
-  },
-  "PlutoTVThrillers.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Thrillers.us"
-  },
-  "PlutoTVTrendingNow.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Trending Now.us"
-  },
-  "PlutoTVTrueCrime.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV True Crime.us"
-  },
-  "PlutoTVWesterns.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Pluto TV Westerns.us"
-  },
-  "PokerGo.us@US": {
-    "source": "unitedstates9",
-    "source_id": "PokerGO.us"
-  },
-  "Pop.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Pop.uk"
-  },
-  "PopUp.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "PopUp.uk"
-  },
-  "PursuitChannel.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "Pursuit Channel.us"
-  },
-  "QVC.it@SD": {
-    "source": "italy1",
-    "source_id": "QVC.it"
-  },
-  "QVC.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "QVC.uk"
-  },
-  "QVC.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "QVC.us"
-  },
-  "QVC2.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "QVC2.us"
-  },
-  "QVC3.us@SD": {
-    "source": "unitedstates2",
-    "source_id": "QVC3.us"
-  },
-  "QVCBeauty.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "QVCBeauty.uk"
-  },
-  "QVCExtra.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "QVCExtra.uk"
-  },
-  "QVCStyle.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "QVCStyle.uk"
-  },
-  "RDSSocialTV.it@SD": {
-    "source": "italy2",
-    "source_id": "Rds Social Tv.it"
-  },
-  "RFDTV.us@SD": {
-    "source": "unitedstates2",
-    "source_id": "RFDTV.us"
-  },
-  "RTL1025TV.it@SD": {
-    "source": "italy3",
-    "source_id": "RTL 102.5 TV.it"
-  },
-  "RTN.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "RTN.us"
-  },
-  "RadioItaliaTrendTV.it@HD": {
-    "source": "italy1",
-    "source_id": "Radio Italia Trend Tv HD.it"
-  },
-  "RadioNorbaTV.it@SD": {
-    "source": "italy1",
-    "source_id": "RADIONORBA TV.it"
-  },
-  "Radiofreccia.it@SD": {
-    "source": "italy1",
-    "source_id": "RADIOFRECCIA HD.it"
-  },
-  "Rai1.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai 1 HD.it"
-  },
-  "Rai2.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai 2 HD.it"
-  },
-  "Rai3.it@HD": {
-    "source": "italy1",
-    "source_id": "Rai 3 HD.it"
-  },
-  "Rai4.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai 4.it"
-  },
-  "RaiGulp.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai Gulp.it"
-  },
-  "RaiMovie.it@HD": {
-    "source": "italy1",
-    "source_id": "Rai Movie.it"
-  },
-  "RaiNews24.it@HD": {
-    "source": "italy1",
-    "source_id": "Rai News 24.it"
-  },
-  "RaiNews24.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai News 24.it"
-  },
-  "RaiStoria.it@SD": {
-    "source": "italy1",
-    "source_id": "Rai Storia.it"
-  },
-  "Rawhide.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Rawhide.us"
-  },
-  "RealAmericasVoice.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Real America's Voice.us"
-  },
-  "RealWild.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "RealWild.uk"
-  },
-  "Reelz.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "REELZ.us"
-  },
-  "Revolt.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Revolt.us"
-  },
-  "Revry.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Revry.us"
-  },
-  "Ridiculousness.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Ridiculousness.us"
-  },
-  "RiffTrax.us@US": {
-    "source": "unitedstates9",
-    "source_id": "RiffTrax.us"
-  },
-  "Roar.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Roar.us"
-  },
-  "RyanandFriends.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Ryan and Friends.us"
-  },
-  "S4C.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "S4C.uk"
-  },
-  "SECNetwork.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "SEC Network.us"
-  },
-  "SalemNewsChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Salem News Channel.us"
-  },
-  "ScrippsNews.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Scripps News.us"
-  },
-  "ShopLC.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Shop LC.us"
-  },
-  "SitcomLegends.us@SD": {
-    "source_id": "Sitcom Legends.us",
-    "source": "unitedstates9"
-  },
-  "SketchyAF.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Sketchy AF.us"
-  },
-  "SkyRacing1.au@SD": {
-    "source": "australia",
-    "source_id": "SkyRacing1.au"
-  },
-  "SkyRacing2.au@SD": {
-    "source": "australia",
-    "source_id": "SkyRacing2.au"
-  },
-  "SkySportsF1.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "SkySportsF1.uk"
-  },
-  "SmashTV.mt@SD": {
-    "source": "malta1",
-    "source_id": "Smash TV.mt"
-  },
-  "SmithsonianChannelSelects.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Smithsonian Channel Selects.us"
-  },
-  "SpikeOutdoors.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Spike Outdoors.us"
-  },
-  "SpikePlutoTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Spike Pluto TV.us"
-  },
-  "Sportitalia.it@SD": {
-    "source": "italy3",
-    "source_id": "Sportitalia.it"
-  },
-  "SportsGrid.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "SportsGrid HD.us"
-  },
-  "Stadium.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "Stadium HD.us"
-  },
-  "StarTrek.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Star Trek.us"
-  },
-  "StarTrekDeepSpaceNine.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Star Trek: Deep Space Nine.us"
-  },
-  "StarTrekTheNextGeneration.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Star Trek: The Next Generation.us"
-  },
-  "StarTrekVoyager.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Star Trek: Voyager.us"
-  },
-  "StoriesbyAMC.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Stories by AMC.us"
-  },
-  "Super.it@SD": {
-    "source": "italy1",
-    "source_id": "Super!.it"
-  },
-  "SuperTennis.it@SD": {
-    "source": "italy1",
-    "source_id": "SuperTennis HD.it"
-  },
-  "SupernaturalDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Supernatural Drama.us"
-  },
-  "Survivor.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Survivor.us"
-  },
-  "TBNInspire.us@SD": {
-    "source": "unitedstates4",
-    "source_id": "TBN Inspire.us"
-  },
-  "TBNUK.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TBNUK.uk"
-  },
-  "TGCom24.it@SD": {
-    "source": "italy1",
-    "source_id": "TgCom24 HD.it"
-  },
-  "TJC.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TJC.uk"
-  },
-  "TODAYAllDay.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "TODAY All Day.us"
-  },
-  "TUDN.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "TUDN.us"
-  },
-  "TV2000.it@SD": {
-    "source": "italy1",
-    "source_id": "TV2000 HD.it"
-  },
-  "TVLandDrama.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "TV Land Drama.us"
-  },
-  "TVLandSitcoms.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "TV Land Sitcoms.us"
-  },
-  "TVM.mt@SD": {
-    "source": "malta1",
-    "source_id": "TVM HD.mt"
-  },
-  "TVOne.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TVOne.uk"
-  },
-  "TVSN.au@SD": {
-    "source": "australia",
-    "source_id": "TVSN.au"
-  },
-  "TVWarehouse.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TVWarehouse.uk"
-  },
-  "TakbeerTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TakbeerTV.uk"
-  },
-  "TalkingPicturesTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TalkingPicturesTV.uk"
-  },
-  "Tastemade.us@US": {
-    "source": "unitedstates7",
-    "source_id": "Tastemade.us"
-  },
-  "TeenMom.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Teen Mom.us"
-  },
-  "TeleXitos.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Telexitos.us"
-  },
-  "TennisChannel.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "Tennis Channel.us"
-  },
-  "TennisChannel2.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "TennisChannel 2.us"
-  },
-  "Thats70s.uk@HD": {
-    "source": "unitedkingdom",
-    "source_id": "Thats70s.uk"
-  },
-  "Thats70s.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "Thats70s.uk"
-  },
-  "ThatsTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "ThatsTV.uk"
-  },
-  "TheAddamsFamily.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Addams Family.us"
-  },
-  "TheAmazingRace.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Amazing Race.us"
-  },
-  "TheAndyGriffithShow.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Andy Griffith Show.us"
-  },
-  "TheBobRossChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Bob Ross Channel.us"
-  },
-  "TheChallenge.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Challenge.us"
-  },
-  "TheDesignNetwork.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "The Design Network.us"
-  },
-  "TheJamieOliverChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Jamie Oliver Channel.us"
-  },
-  "TheJudgeJudyChannel.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Judge Judy Channel.us"
-  },
-  "TheLoveBoat.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Love Boat.us"
-  },
-  "TheNewDetectives.us@US": {
-    "source": "unitedstates9",
-    "source_id": "The New Detectives.us"
-  },
-  "ThePetCollective.us@US": {
-    "source": "unitedstates9",
-    "source_id": "The Pet Collective.us"
-  },
-  "ThePriceIsRight.us@HD": {
-    "source": "unitedstates9",
-    "source_id": "The Price Is Right.us"
-  },
-  "ThePriceIsRightTheBarkerEra.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Price Is Right: The Barker Era.us"
-  },
-  "TheRifleman.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Rifleman.us"
-  },
-  "TheWalkingDeadUniverse.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Walking Dead Universe.us"
-  },
-  "TheWeatherChannel.us@SD": {
-    "source": "unitedstates5",
-    "source_id": "The Weather Channel.us"
-  },
-  "TheWildWildWest.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "The Wild Wild West.us"
-  },
-  "TheWordNetwork.us@SD": {
-    "source": "unitedstates11",
-    "source_id": "The Word Network HD.us"
-  },
-  "ThisOldHouse.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "This Old House.us"
-  },
-  "ThreesCompany.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Three's Company.us"
-  },
-  "TinyHouseNation.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Tiny House Nation.us"
-  },
-  "TinyPop.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TinyPop.uk"
-  },
-  "TogetherTV.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TogetherTV.uk"
-  },
-  "TopCrime.it@SD": {
-    "source": "italy1",
-    "source_id": "TOPcrime HD.it"
-  },
-  "Tosh0.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Tosh.0.us"
-  },
-  "TotallyTurtles.us@US": {
-    "source": "unitedstates9",
-    "source_id": "TOTALLY TURTLES.us"
-  },
-  "ToughJobs.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Tough Jobs.us"
-  },
-  "TrueCrime.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TrueCrime.uk"
-  },
-  "TrueCrimeNetwork.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "True Crime Network.us"
-  },
-  "Twentyseven.it@HD": {
-    "source": "italy2",
-    "source_id": "Twentyseven.it"
-  },
-  "UnsolvedMysteries.us@US": {
-    "source": "unitedstates9",
-    "source_id": "Unsolved Mysteries.us"
-  },
-  "VH1QueensofReality.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "VH1 Queens of Reality.us"
-  },
-  "Value24TV.it@SD": {
-    "source": "italy1",
-    "source_id": "VALUE 24 TV.it"
-  },
-  "Vevo2K.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo 2K.us"
-  },
-  "Vevo70s.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo '70s.us"
-  },
-  "Vevo80s.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo '80s.us"
-  },
-  "Vevo90s.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo '90s.us"
-  },
-  "VevoCountry.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo Country.us"
-  },
-  "VevoPop.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo Pop.us"
-  },
-  "VevoTrueSchoolHipHop.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Vevo True School Hip Hop.us"
-  },
-  "WeatherNation.us@SD": {
-    "source": "unitedstates10",
-    "source_id": "WeatherNation.us"
-  },
-  "WesternTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Western TV.us"
-  },
-  "WildNOut.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Wild 'N Out.us"
-  },
-  "Willow.us@SD": {
-    "source": "unitedstates1",
-    "source_id": "WILLOW.us"
-  },
-  "WomensSportsNetwork.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Women's Sports Network.us"
-  },
-  "WorldChannel.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "World Channel.us"
-  },
-  "WorldPokerTour.us@US": {
-    "source": "unitedstates9",
-    "source_id": "World Poker Tour.us"
-  },
-  "YesNetwork.us@SD": {
-    "source": "unitedstates7",
-    "source_id": "YES Network.us"
-  },
-  "YoMTV.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Yo! MTV.us"
-  },
-  "YuGiOh.us@SD": {
-    "source": "unitedstates9",
-    "source_id": "Yu Gi Oh!.us"
-  },
-  "talkSPORT.uk@SD": {
-    "source": "unitedkingdom",
-    "source_id": "TalkSport.uk"
-  }
+  "00sReplay.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "00s Replay.us"
+    }
+  ],
+  "20.it@SD": [
+    {
+      "source": "italy2",
+      "source_id": "20.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "20.it"
+    }
+  ],
+  "48Hours.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "48 Hours.us"
+    }
+  ],
+  "50CentAction.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "50 Cent Action.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951439"
+    }
+  ],
+  "5USA.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "5USA.uk"
+    }
+  ],
+  "70sCinema.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "70s Cinema.us"
+    }
+  ],
+  "80sRewind.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "80s Rewind.us"
+    }
+  ],
+  "90sKids.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "90's Kids.us"
+    }
+  ],
+  "90sKidsTV2.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "90s Kids TV 2.us"
+    }
+  ],
+  "90sThrowback.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "90s Throwback.us"
+    }
+  ],
+  "ABCNewsLive.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "ABC News Live.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951517"
+    }
+  ],
+  "ACCDigitalNetwork.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991315"
+    }
+  ],
+  "ACCNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "ACC Network.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ACC Network.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "ACC Network.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ACC Network HD.us"
+    }
+  ],
+  "ACISportTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "ACI Sport Tv.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "ACI Sport Tv.it"
+    }
+  ],
+  "ALLBLKGems.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "ALLBLK Gems.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951477"
+    }
+  ],
+  "AMGTV.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "AMG TV.us"
+    }
+  ],
+  "AWE.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "AWE.us"
+    }
+  ],
+  "AXSTV.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "AXSTV.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "AXSTV.us"
+    },
+    {
+      "source": "unitedstates4",
+      "source_id": "AXSTV HD.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "AXSTV.us"
+    }
+  ],
+  "AcapulcoShore.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Acapulco Shore.us"
+    }
+  ],
+  "AccuWeatherNOW.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991649"
+    }
+  ],
+  "AkaalChannel.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "AkaalChannel.uk"
+    }
+  ],
+  "AllWeddingsWEtv.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991625"
+    }
+  ],
+  "AlmaTV.it@SD": [
+    {
+      "source": "italy3",
+      "source_id": "Alma TV.it"
+    }
+  ],
+  "AmericanHeroesChannel.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "American Heroes Channel.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "American Heroes Channel.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "American Heroes Channel.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "American Heroes Channel.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "American Heroes Channel HD.us"
+    }
+  ],
+  "AmericasNextTopModel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "America's Next Top Model.us"
+    }
+  ],
+  "AmericasTestKitchen.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "America's Test Kitchen.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991369"
+    }
+  ],
+  "AmericasVoiceNews.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "America's Voice News.us"
+    }
+  ],
+  "AnimexHIDIVE.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "ANIME x HIDIVE.us"
+    }
+  ],
+  "AntiquesRoadTrip.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Antiques Road Trip.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951353"
+    }
+  ],
+  "AntiquesRoadshowUK.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Antiques Roadshow UK.us"
+    }
+  ],
+  "AreWeThereYet.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991667"
+    }
+  ],
+  "AtHomewithFamilyHandyman.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951156"
+    }
+  ],
+  "BBCAlba.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCAlba.uk"
+    }
+  ],
+  "BBCFour.uk@UK": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCFour.uk"
+    }
+  ],
+  "BBCFourCBeebies.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCFourCBeebies.uk"
+    }
+  ],
+  "BBCHomeGarden.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951178"
+    }
+  ],
+  "BBCParliament.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCParliament.uk"
+    }
+  ],
+  "BBCScotland.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCScotland.uk"
+    }
+  ],
+  "BBCThree.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCThree.uk"
+    }
+  ],
+  "BBCThree.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCThree.uk"
+    }
+  ],
+  "BBCThreeCBBC.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCThreeCBBC.uk"
+    }
+  ],
+  "BBCTwo.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BBCTwo.uk"
+    }
+  ],
+  "BETCinema.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BET Cinema.us"
+    }
+  ],
+  "BETComedyMovies.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BET Comedy Movies.us"
+    }
+  ],
+  "BETPlutoTV.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BET Pluto TV.us"
+    }
+  ],
+  "BETThrowbacks.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BET Throwbacks.us"
+    }
+  ],
+  "BETVisionaries.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BET Visionaries.us"
+    }
+  ],
+  "BYUTV.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "BYUTV.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "BYUTV.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "BYUtv.us"
+    }
+  ],
+  "BabyFirst.us@US": [
+    {
+      "source": "unitedstates7",
+      "source_id": "BabyFirst.us"
+    }
+  ],
+  "BabySharkTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Baby Shark TV.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951209"
+    }
+  ],
+  "BabyTV.uk@UK": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "BabyTV.uk"
+    }
+  ],
+  "BarRescue.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Bar Rescue.us"
+    }
+  ],
+  "BarkTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951409"
+    }
+  ],
+  "BattlestarGalactica.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Battlestar Galactica.us"
+    }
+  ],
+  "Baywatch.us@US": [
+    {
+      "source": "xumo",
+      "source_id": "99951133"
+    }
+  ],
+  "BellatorMMA.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Bellator MMA.us"
+    }
+  ],
+  "BerksCommunityTV.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Berks Community TV HD.us"
+    }
+  ],
+  "BestofDrPhil.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Best of Dr. Phil.us"
+    }
+  ],
+  "BeverlyHillbillies.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Beverly Hillbillies.us"
+    }
+  ],
+  "BeverlyHills90210.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Beverly Hills 90210.us"
+    }
+  ],
+  "BeyondtheGates.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Beyond the Gates.us"
+    }
+  ],
+  "BigBrother.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Big Brother.us"
+    }
+  ],
+  "BigTenNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Big Ten Network.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Big Ten Network.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Big Ten Network HD.us"
+    }
+  ],
+  "BilliardTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991627"
+    }
+  ],
+  "BlackFamilySitcoms.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Black Family Sitcoms.us"
+    }
+  ],
+  "BlackInkCrew.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Black Ink Crew.us"
+    }
+  ],
+  "Blaze.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Blaze.uk"
+    }
+  ],
+  "BlazeLive.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Blaze Live.us"
+    }
+  ],
+  "BloombergTV.us@US": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Bloomberg TV.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Bloomberg TV.us"
+    }
+  ],
+  "BlueBloods.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Blue Bloods.us"
+    }
+  ],
+  "Bonanza.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Bonanza.us"
+    }
+  ],
+  "Boomerang.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Boomerang.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "Boomerang.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Boomerang.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Boomerang.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Boomerang HD.us"
+    }
+  ],
+  "Bounce.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Bounce HD.us"
+    }
+  ],
+  "BounceXL.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Bounce XL.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "9999613"
+    }
+  ],
+  "BritBoxMysteries.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BritBox Mysteries.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951213"
+    }
+  ],
+  "Buzzr.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "BUZZR.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Buzzr.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951124"
+    }
+  ],
+  "CANTV19.us@SD": [
+    {
+      "source": "unitedstates6",
+      "source_id": "CANTV19.us"
+    }
+  ],
+  "CANTV21.us@SD": [
+    {
+      "source": "unitedstates6",
+      "source_id": "CANTV21.us"
+    }
+  ],
+  "CANTV36.us@SD": [
+    {
+      "source": "unitedstates6",
+      "source_id": "CANTV36.us"
+    }
+  ],
+  "CBBC.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "CBBC.uk"
+    }
+  ],
+  "CBBC.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "CBBC.uk"
+    }
+  ],
+  "CBNNews.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "CBNNEWS.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "CBNNEWS.us"
+    }
+  ],
+  "CBSNews247.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News 24/7.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991158"
+    }
+  ],
+  "CBSNewsBaltimore.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Baltimore.us"
+    }
+  ],
+  "CBSNewsBayArea.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Bay Area.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991655"
+    }
+  ],
+  "CBSNewsBoston.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Boston.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991656"
+    }
+  ],
+  "CBSNewsChicago.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Chicago.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991643"
+    }
+  ],
+  "CBSNewsColorado.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Colorado.us"
+    }
+  ],
+  "CBSNewsDetroit.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Detroit.us"
+    }
+  ],
+  "CBSNewsLosAngeles.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Los Angeles.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991642"
+    }
+  ],
+  "CBSNewsMiami.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Miami.us"
+    }
+  ],
+  "CBSNewsMinnesota.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Minnesota.us"
+    }
+  ],
+  "CBSNewsNewYork.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News New York.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991641"
+    }
+  ],
+  "CBSNewsPittsburgh.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Pittsburgh.us"
+    }
+  ],
+  "CBSNewsSacramento.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS News Sacramento.us"
+    }
+  ],
+  "CBSSportsHQ.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CBS Sports HQ.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991645"
+    }
+  ],
+  "CBeebies.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "CBeebies.uk"
+    }
+  ],
+  "CBeebies.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "CBeebies.uk"
+    }
+  ],
+  "CMTEqualPlay.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CMT Equal Play.us"
+    }
+  ],
+  "CMTV.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "CMTV.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "CMTV.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "CMTV.us"
+    }
+  ],
+  "CNBC.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "CNBC.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "CNBC.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "CNBC.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "CNBC.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "CNBC.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "CNBC.us"
+    }
+  ],
+  "CNN.us@HD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "CNN HD.us"
+    }
+  ],
+  "CNN.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "CNN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "CNN HD.us"
+    }
+  ],
+  "CNNOriginals.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CNN Originals.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951387"
+    }
+  ],
+  "CSI.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CSI.us"
+    }
+  ],
+  "CSIMiami.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CSI: Miami.us"
+    }
+  ],
+  "CSINY.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "CSI: NY.us"
+    }
+  ],
+  "Canale5.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Canale 5 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Canale5.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Canale 5.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Canale 5.it"
+    }
+  ],
+  "Canale5.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Canale 5 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Canale5.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Canale 5.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Canale 5.it"
+    }
+  ],
+  "CarChase.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Car Chase.us"
+    }
+  ],
+  "CatholicFaithNetwork.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Catholic Faith Network.us"
+    }
+  ],
+  "Channel4.uk@UK": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Channel4.uk"
+    }
+  ],
+  "Channel44.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "Channel44.au"
+    }
+  ],
+  "Charge.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Charge!.us"
+    }
+  ],
+  "CheddarNews.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991220"
+    }
+  ],
+  "Cine34.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Cine34 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Cine34.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Cine34.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Cine34.it"
+    }
+  ],
+  "Cine34.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Cine34 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Cine34.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Cine34.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Cine34.it"
+    }
+  ],
+  "CineAdrenalina.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Cine adrenalina.us"
+    }
+  ],
+  "CineAmor.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Cine Amor.us"
+    }
+  ],
+  "CinePremiere.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Cine Premiere.us"
+    }
+  ],
+  "CineTerror.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Cine terror.us"
+    }
+  ],
+  "Cineaventura.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Cine aventura.us"
+    }
+  ],
+  "ClassCNBC.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Class CNBC.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Class CNBC.it"
+    }
+  ],
+  "ClassicArtsShowcase.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Classic Arts Showcase.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Classic Arts Showcase HD.us"
+    }
+  ],
+  "ClassicMovieWesterns.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic Movie Westerns.us"
+    }
+  ],
+  "ClassicMoviesChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic Movies Channel.us"
+    }
+  ],
+  "ClassicTVComedy.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic TV Comedy.us"
+    }
+  ],
+  "ClassicTVCrimeDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic TV Crime Drama.us"
+    }
+  ],
+  "ClassicTVDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic TV Drama.us"
+    }
+  ],
+  "ClassicTVFamilies.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classic TV: Families.us"
+    }
+  ],
+  "Classica.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Classica.us"
+    }
+  ],
+  "ComedyCentralPlutoTV.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Comedy Central Pluto TV.us"
+    }
+  ],
+  "ComedyDynamics.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951463"
+    }
+  ],
+  "Comet.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Comet.us"
+    }
+  ],
+  "ConcertChannel.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Concert Channel HD.us"
+    }
+  ],
+  "CookingChannel.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Cooking Channel.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Cooking Channel.us"
+    }
+  ],
+  "Cops.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "COPS.us"
+    }
+  ],
+  "CourtTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Court TV.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Court TV.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951559"
+    }
+  ],
+  "Create.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Create.us"
+    }
+  ],
+  "Crunchyroll.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Crunchyroll.us"
+    }
+  ],
+  "DCCMakingtheTeam.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "DCC: Making the Team.us"
+    }
+  ],
+  "DMAX.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "DMAX HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Dmax.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "DMAX.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Dmax.it"
+    }
+  ],
+  "DarkMatterTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "9999615"
+    }
+  ],
+  "Dateline247.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Dateline 24/7.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991626"
+    }
+  ],
+  "DatingDisasters.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Dating Disasters.us"
+    }
+  ],
+  "DaystarTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951592"
+    }
+  ],
+  "DealorNoDeal.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Deal or No Deal.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991113"
+    }
+  ],
+  "DeejayTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Deejay TV.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Deejay TV.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Deejay TV.it"
+    }
+  ],
+  "DeenTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "DeenTV.uk"
+    }
+  ],
+  "Degrassi.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Degrassi.us"
+    }
+  ],
+  "DesignatedSurvivor.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951346"
+    }
+  ],
+  "DestinationAmerica.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Destination America.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Destination America.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Destination America.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Destination America HD.us"
+    }
+  ],
+  "DiscoveryChannel.it@SD": [
+    {
+      "source": "italy4",
+      "source_id": "Discovery Channel.it"
+    }
+  ],
+  "DiscoveryTurbo.it@SD": [
+    {
+      "source": "italy3",
+      "source_id": "Discovery Turbo.it"
+    }
+  ],
+  "DiscoveryTurbo.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Discovery Turbo HD.us"
+    }
+  ],
+  "DoctorWhoClassic.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Doctor Who Classic.us"
+    }
+  ],
+  "DogtheBountyHunter.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Dog the Bounty Hunter.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951485"
+    }
+  ],
+  "DonnaTV.it@SD": [
+    {
+      "source": "italy3",
+      "source_id": "DonnaTv.it"
+    }
+  ],
+  "DoveChannel.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991333"
+    }
+  ],
+  "Dynasty.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Dynasty.us"
+    }
+  ],
+  "E4.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "E4.uk"
+    }
+  ],
+  "EKeepingUp.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951465"
+    }
+  ],
+  "ESPN.us@HD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN HD.us"
+    }
+  ],
+  "ESPN.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "ESPN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN HD.us"
+    }
+  ],
+  "ESPN2.us@HD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "ESPN2.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "ESPN2.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "ESPN2.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "ESPN2.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "espn2.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "ESPN2.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN2 HD.us"
+    }
+  ],
+  "ESPNDeportes.us@HD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "ESPN Deportes.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ESPN Deportes.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "ESPN Deportes.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN Deportes HD.us"
+    }
+  ],
+  "ESPNU.us@HD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates4",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN U HD.us"
+    }
+  ],
+  "ESPNU.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates4",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "ESPNU.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "ESPN U HD.us"
+    }
+  ],
+  "EbonyTVbyLionsgate.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951293"
+    }
+  ],
+  "ElectricNow.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991378"
+    }
+  ],
+  "ElevationChurchNetwork.us@HD": [
+    {
+      "source": "xumo",
+      "source_id": "99951543"
+    }
+  ],
+  "EmanChannel.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "EmanChannel.uk"
+    }
+  ],
+  "EstrellaNews.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Estrella News.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991776"
+    }
+  ],
+  "EstrellaTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "EstrellaTV.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Estrella TV.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Estrella TV HD.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991746"
+    }
+  ],
+  "FailArmy.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "FailArmy.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991153"
+    }
+  ],
+  "FaithTV.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "FaithTV HD.us"
+    }
+  ],
+  "FaithUK.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "FaithUK.uk"
+    }
+  ],
+  "FaithWorldTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "FaithWorldTV.uk"
+    }
+  ],
+  "FamilyTies.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Family Ties.us"
+    }
+  ],
+  "FearFactor.us@US": [
+    {
+      "source": "xumo",
+      "source_id": "99951130"
+    }
+  ],
+  "FeelGoodDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Feel Good Drama.us"
+    }
+  ],
+  "FlicksofFury.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Flicks of Fury.us"
+    }
+  ],
+  "FoodNetwork.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Food Network HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Food Network Hd.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "FoodNetwork.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Food Network.it"
+    }
+  ],
+  "ForensicFiles.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Forensic Files.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991367"
+    }
+  ],
+  "ForeverKids.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Forever Kids.us"
+    }
+  ],
+  "FoxBusinessNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Fox Business Network.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Fox Business Network.us"
+    }
+  ],
+  "FoxDeportes.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "FOX Deportes.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Fox Deportes HD.us"
+    }
+  ],
+  "FoxNewsChannel.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "Fox News Channel.us"
+    }
+  ],
+  "FoxSports1.us@HD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "FOX Sports 1.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Fox Sports 1.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Fox Sports 1.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Fox Sports 1 HD.us"
+    }
+  ],
+  "FoxSportsNews.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "FoxSportsNews.au"
+    }
+  ],
+  "FoxWeather.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "FOX Weather.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991694"
+    }
+  ],
+  "FreeSpeechTV.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Free Speech TV.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Free Speech TV.us"
+    }
+  ],
+  "FuboSportsNetwork.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951548"
+    }
+  ],
+  "FunnyAF.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Funny AF.us"
+    }
+  ],
+  "GBNews.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "GBNews.uk"
+    }
+  ],
+  "GODTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "GODTV.uk"
+    }
+  ],
+  "GREATmovies.uk@UK": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "GreatMovies.uk"
+    }
+  ],
+  "GameShowCentral.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Game Show Central.us"
+    }
+  ],
+  "GarfieldandFriends.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Garfield and Friends.us"
+    }
+  ],
+  "GemShoppingNetwork.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Gem Shopping Network HD.us"
+    }
+  ],
+  "GolazoNetwork.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Golazo Network.us"
+    }
+  ],
+  "GordonRamsaysHellsKitchen.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Gordon Ramsay's Hell's Kitchen.us"
+    }
+  ],
+  "GravitasMovies.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991312"
+    }
+  ],
+  "GritXtra.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951152"
+    }
+  ],
+  "Gunsmoke.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Gunsmoke.us"
+    }
+  ],
+  "HGTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "HGTV HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Hgtv.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "HGTV.it"
+    }
+  ],
+  "HLN.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "HLN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "HLN HD.us"
+    }
+  ],
+  "HSN2.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "HSN2.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "HSN2.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "HSN2.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "HSN2.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "HSN 2 HD.us"
+    }
+  ],
+  "HallmarkMoviesMore.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991709"
+    }
+  ],
+  "HappyDays.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Happy Days.us"
+    }
+  ],
+  "HiYAH.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991302"
+    }
+  ],
+  "HistoryHit.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "HistoryHit.uk"
+    }
+  ],
+  "HobbyMaker.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "HobbyMaker.uk"
+    }
+  ],
+  "HogansHeroes.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Hogan's Heroes.us"
+    }
+  ],
+  "HomeMadeNation.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Home.Made.Nation.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951470"
+    }
+  ],
+  "HorseTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Horse TV HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Horse Tv.it"
+    }
+  ],
+  "HotBench.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Hot Bench.us"
+    }
+  ],
+  "Hungry.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991380"
+    }
+  ],
+  "ILoveLucy.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "I Love Lucy.us"
+    }
+  ],
+  "ITV2.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "ITV2.uk"
+    }
+  ],
+  "ITV3.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "ITV3.uk"
+    }
+  ],
+  "ITV4.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "ITV4.uk"
+    }
+  ],
+  "InkMaster.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Ink Master.us"
+    }
+  ],
+  "InterTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Inter TV.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Inter TV.it"
+    }
+  ],
+  "Investiga.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Investiga.us"
+    }
+  ],
+  "IonTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "IONTV.uk"
+    }
+  ],
+  "IqraBangla.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "IQRABangla.uk"
+    }
+  ],
+  "IqraTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "IQRATV.uk"
+    }
+  ],
+  "Iris.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Iris HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Iris.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Iris.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Iris.it"
+    }
+  ],
+  "Iris.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Iris HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Iris.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Iris.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Iris.it"
+    }
+  ],
+  "IslamChannel.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "IslamChannel.uk"
+    }
+  ],
+  "Italia1.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Italia 1 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Italia1.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Italia 1.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Italia 1.it"
+    }
+  ],
+  "Italia2.it@SD": [
+    {
+      "source": "italy2",
+      "source_id": "Italia2.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Italia 2.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Italia 2.it"
+    }
+  ],
+  "JBS.us@SD": [
+    {
+      "source": "unitedstates2",
+      "source_id": "JBS.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "JBS.us"
+    }
+  ],
+  "JerseyShore.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Jersey Shore.us"
+    }
+  ],
+  "JewishLifeTelevision.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Jewish Life Television HD.us"
+    }
+  ],
+  "JoelOsteenNetwork.us@HD": [
+    {
+      "source": "xumo",
+      "source_id": "99951344"
+    }
+  ],
+  "JohnnyCarsonTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991157"
+    }
+  ],
+  "JudgeNosey.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Judge Nosey.us"
+    }
+  ],
+  "JusOne.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Jus One.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Jus One.us"
+    }
+  ],
+  "JusPunjabi.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Jus Punjabi.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Jus Punjabi.us"
+    }
+  ],
+  "JustforLaughsGags.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991204"
+    }
+  ],
+  "KanshiTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "KanshiTV.uk"
+    }
+  ],
+  "KartoonChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Kartoon Channel!.us"
+    }
+  ],
+  "KidsMovieClub.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Kids Movie Club.us"
+    }
+  ],
+  "LA7.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "LA7 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "La7.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "La7.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "La7.it"
+    }
+  ],
+  "LEGOKidsTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "LEGO Kids TV.us"
+    }
+  ],
+  "La5.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "La 5 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "La5.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "La 5.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "La5.it"
+    }
+  ],
+  "La7Cinema.it@HD": [
+    {
+      "source": "italy3",
+      "source_id": "La7 Cinema.it"
+    }
+  ],
+  "Laff.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Laff.us"
+    }
+  ],
+  "LawCrime.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991320"
+    }
+  ],
+  "LazioStyleChannel.it@HD": [
+    {
+      "source": "italy4",
+      "source_id": "Lazio Style Channel.it"
+    }
+  ],
+  "LittleStarsUniverse.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Little Stars Universe.us"
+    }
+  ],
+  "LiveMusic.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Live Music.us"
+    }
+  ],
+  "LiveNOWfromFOX.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "LiveNOW from FOX.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991635"
+    }
+  ],
+  "LogoPlutoTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Logo Pluto TV.us"
+    }
+  ],
+  "LuckyDog.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951444"
+    }
+  ],
+  "MBC.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "MBC.uk"
+    }
+  ],
+  "MLB.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MLB.us"
+    }
+  ],
+  "MSG.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "MSG.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "MSG.us"
+    }
+  ],
+  "MSNOW.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "MSNOW.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "MSNOW.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "MS NOW.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "MSNOW.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "MS Now.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "MSNOW.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "MS NOW.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "MS NOW HD.us"
+    }
+  ],
+  "MST3K.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MST3K.us"
+    }
+  ],
+  "MTA1World.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "MTA1World.uk"
+    }
+  ],
+  "MTVBiggestPop.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MTV Biggest Pop.us"
+    }
+  ],
+  "MTVFlowLatino.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MTV Flow Latino.us"
+    }
+  ],
+  "MTVLive.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "MTVLIVE.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "MTVLIVE.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "MTVLIVE.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "MTV Live.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "MTV Live HD.us"
+    }
+  ],
+  "MTVPlutoTV.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MTV Pluto TV.us"
+    }
+  ],
+  "MTVSpankinNew.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "MTV Spankin' New.us"
+    }
+  ],
+  "MUTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "MUTV.uk"
+    }
+  ],
+  "Matlock.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Matlock.us"
+    }
+  ],
+  "MaverickBlackCinema.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991336"
+    }
+  ],
+  "MeTV.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Me TV.us"
+    }
+  ],
+  "MeritStreet.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "merit street.us"
+    }
+  ],
+  "MidsomerMurders.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Midsomer Murders.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991698"
+    }
+  ],
+  "MilitaryHistory.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Military History.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Military History HD.us"
+    }
+  ],
+  "MissionImpossible.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Mission Impossible.us"
+    }
+  ],
+  "Misteriossinresolver.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Misterios sin resolver.us"
+    }
+  ],
+  "MonsterJam.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Monster Jam.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951597"
+    }
+  ],
+  "More4.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "More4.uk"
+    }
+  ],
+  "MoreTVDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "More TV Drama.us"
+    }
+  ],
+  "MoreTVSitcoms.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "More TV Sitcoms.us"
+    }
+  ],
+  "MoreTrueCrime.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "More True Crime.us"
+    }
+  ],
+  "NBATV.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "NBATV.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "NBATV.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "NBA TV.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "NBATV.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "NBA TV.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "NBATV.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "NBA TV.us"
+    }
+  ],
+  "NBCComedyVault.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951244"
+    }
+  ],
+  "NBCLXHome.us@HD": [
+    {
+      "source": "xumo",
+      "source_id": "99991651"
+    }
+  ],
+  "NBCNewsNOW.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "NBC News NOW.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991247"
+    }
+  ],
+  "NBCSportsNOW.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "NBC Sports NOW.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951253"
+    }
+  ],
+  "NET.mt@SD": [
+    {
+      "source": "malta1",
+      "source_id": "NET HD.mt"
+    }
+  ],
+  "NFLChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "NFL Channel.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991738"
+    }
+  ],
+  "NFLNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "NFL Network.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "NFL Network.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "NFL Network HD.us"
+    }
+  ],
+  "NHLNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "NHL Network.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "NHL Network.us"
+    }
+  ],
+  "NOWRock.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "NowRock.uk"
+    }
+  ],
+  "Naruto.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Naruto.us"
+    }
+  ],
+  "NashBridges.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Nash Bridges.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951330"
+    }
+  ],
+  "News12NewYork.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "News 12 New York.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951222"
+    }
+  ],
+  "News24.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "News24.au"
+    }
+  ],
+  "Newsmax2.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Newsmax2.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991194"
+    }
+  ],
+  "NickJr.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Nick Jr.it"
+    }
+  ],
+  "NickJrPlutoTV.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Nick Jr. Pluto TV.us"
+    }
+  ],
+  "Nickelodeon.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Nickelodeon.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Nickelodeon.it"
+    }
+  ],
+  "Nickelodeon.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Nickelodeon.uk"
+    }
+  ],
+  "NickelodeonPlutoTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Nickelodeon Pluto TV.us"
+    }
+  ],
+  "NinjaKidzTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951229"
+    }
+  ],
+  "NollyAfrica.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "NollyAfrica.uk"
+    }
+  ],
+  "NoorTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "NoorTV.uk"
+    }
+  ],
+  "Nosey.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Nosey.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991366"
+    }
+  ],
+  "Now70s.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Now70s.uk"
+    }
+  ],
+  "Now80s.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Now80s.uk"
+    }
+  ],
+  "OANPlus.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "OAN Plus.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951404"
+    }
+  ],
+  "One.mt@SD": [
+    {
+      "source": "malta1",
+      "source_id": "ONE HD.mt"
+    }
+  ],
+  "OneAmericaNewsNetwork.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "One America News Network HD.us"
+    }
+  ],
+  "OnePiece.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "One Piece.us"
+    }
+  ],
+  "OutdoorChannel.us@HD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Outdoor Channel.us"
+    }
+  ],
+  "OutdoorChannel.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates5",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Outdoor Channel.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Outdoor Channel.us"
+    }
+  ],
+  "PBRRidePass.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PBR RidePass.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951388"
+    }
+  ],
+  "PBSAntiquesRoadshow.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PBS Antiques Roadshow.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951206"
+    }
+  ],
+  "PBSKids.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "PBS Kids.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "PBS Kids HD.us"
+    }
+  ],
+  "PBSNature.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PBS Nature.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951195"
+    }
+  ],
+  "PBSTravel.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951587"
+    }
+  ],
+  "PFLMMA.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PFL MMA.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951203"
+    }
+  ],
+  "PGATour.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PGA TOUR.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991281"
+    }
+  ],
+  "ParamountMovieChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Paramount Movie Channel.us"
+    }
+  ],
+  "PeppaPig.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Peppa Pig.us"
+    }
+  ],
+  "PerryMason.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Perry Mason.us"
+    }
+  ],
+  "PlutoTVAction.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Action.us"
+    }
+  ],
+  "PlutoTVAdventure.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Adventure.us"
+    }
+  ],
+  "PlutoTVAnime.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Anime.us"
+    }
+  ],
+  "PlutoTVAnimeMovies.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Anime Movies.us"
+    }
+  ],
+  "PlutoTVCars.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Cars.us"
+    }
+  ],
+  "PlutoTVComedy.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Comedy.us"
+    }
+  ],
+  "PlutoTVCompetition.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Competition.us"
+    }
+  ],
+  "PlutoTVCrimeDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Crime Drama.us"
+    }
+  ],
+  "PlutoTVCrimeMovies.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Crime Movies.us"
+    }
+  ],
+  "PlutoTVCultFilms.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Cult Films.us"
+    }
+  ],
+  "PlutoTVDrama.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Drama.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Pluto TV Drama.us"
+    }
+  ],
+  "PlutoTVFantastic.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Fantastic.us"
+    }
+  ],
+  "PlutoTVFranchiseFavorites.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Franchise Favorites.us"
+    }
+  ],
+  "PlutoTVGameShows.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Game Shows.us"
+    }
+  ],
+  "PlutoTVHistory.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV History.us"
+    }
+  ],
+  "PlutoTVHometownDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Hometown Drama.us"
+    }
+  ],
+  "PlutoTVHorror.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Horror.us"
+    }
+  ],
+  "PlutoTVIcons.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Icons.us"
+    }
+  ],
+  "PlutoTVLives.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Lives.us"
+    }
+  ],
+  "PlutoTVMilitary.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Military.us"
+    }
+  ],
+  "PlutoTVNovelas.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Novelas.us"
+    }
+  ],
+  "PlutoTVParanormal.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Paranormal.us"
+    }
+  ],
+  "PlutoTVReaction.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Reaction.us"
+    }
+  ],
+  "PlutoTVReality.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Reality.us"
+    }
+  ],
+  "PlutoTVRomance.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Romance.us"
+    }
+  ],
+  "PlutoTVSciFi.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Sci Fi.us"
+    }
+  ],
+  "PlutoTVScience.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Science.us"
+    }
+  ],
+  "PlutoTVSpotlight.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Spotlight.us"
+    }
+  ],
+  "PlutoTVStaffPicks.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Staff Picks.us"
+    }
+  ],
+  "PlutoTVTerror.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Terror.us"
+    }
+  ],
+  "PlutoTVThrillers.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Thrillers.us"
+    }
+  ],
+  "PlutoTVTrendingNow.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Trending Now.us"
+    }
+  ],
+  "PlutoTVTrueCrime.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV True Crime.us"
+    }
+  ],
+  "PlutoTVWesterns.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Pluto TV Westerns.us"
+    }
+  ],
+  "PokerGo.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "PokerGO.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991633"
+    }
+  ],
+  "Pop.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Pop.uk"
+    }
+  ],
+  "PopUp.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "PopUp.uk"
+    }
+  ],
+  "Portlandia.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951301"
+    }
+  ],
+  "PursuitChannel.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "Pursuit Channel.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Pursuit Channel HD.us"
+    }
+  ],
+  "PursuitUP.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991648"
+    }
+  ],
+  "QVC.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "QVC.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Qvc.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "QVC.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "QVC.it"
+    }
+  ],
+  "QVC.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "QVC.uk"
+    }
+  ],
+  "QVC.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates1",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "QVC.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "QVC HD.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991344"
+    }
+  ],
+  "QVC2.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "QVC2.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "QVC2.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "QVC2.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "QVC2.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "QVC2.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "QVC2 HD.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951405"
+    }
+  ],
+  "QVC3.us@SD": [
+    {
+      "source": "unitedstates2",
+      "source_id": "QVC3.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "QVC3.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "QVC3.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "QVC3 HD.us"
+    }
+  ],
+  "QVCBeauty.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "QVCBeauty.uk"
+    }
+  ],
+  "QVCExtra.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "QVCExtra.uk"
+    }
+  ],
+  "QVCStyle.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "QVCStyle.uk"
+    }
+  ],
+  "RDSSocialTV.it@SD": [
+    {
+      "source": "italy2",
+      "source_id": "Rds Social Tv.it"
+    }
+  ],
+  "RFDTV.us@SD": [
+    {
+      "source": "unitedstates2",
+      "source_id": "RFDTV.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "RFD TV.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "RFD TV.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "RFD TV HD.us"
+    }
+  ],
+  "RTL1025TV.it@SD": [
+    {
+      "source": "italy3",
+      "source_id": "RTL 102.5 TV.it"
+    }
+  ],
+  "RTN.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "RTN.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "RTN.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "RTN.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "RTN.us"
+    }
+  ],
+  "RacerSelect.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951269"
+    }
+  ],
+  "RadioItaliaTrendTV.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Radio Italia Trend Tv HD.it"
+    }
+  ],
+  "RadioNorbaTV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "RADIONORBA TV.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Radionorba TV.it"
+    }
+  ],
+  "Radiofreccia.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "RADIOFRECCIA HD.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Radio Freccia.it"
+    }
+  ],
+  "Rai1.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai 1 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai1.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai 1.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai 1.it"
+    }
+  ],
+  "Rai2.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai 2 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai2.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai 2.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai 2.it"
+    }
+  ],
+  "Rai3.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai 3 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai3.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai 3.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai 3.it"
+    }
+  ],
+  "Rai4.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai 4.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai4.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai 4.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai 4.it"
+    }
+  ],
+  "RaiGulp.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai Gulp.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai Gulp.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai Gulp.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai Gulp.it"
+    }
+  ],
+  "RaiMovie.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai Movie.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai Movie.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai Movie.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai Movie.it"
+    }
+  ],
+  "RaiNews24.it@HD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai News 24.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "RaiNews24.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai News 24.it"
+    }
+  ],
+  "RaiNews24.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai News 24.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "RaiNews24.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai News 24.it"
+    }
+  ],
+  "RaiStoria.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Rai Storia.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Rai Storia.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Rai Storia.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Rai Storia.it"
+    }
+  ],
+  "Rawhide.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Rawhide.us"
+    },
+    {
+      "source": "unitedstates4",
+      "source_id": "Rawhide.us"
+    }
+  ],
+  "RealAmericasVoice.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Real America's Voice.us"
+    }
+  ],
+  "RealWild.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "RealWild.uk"
+    }
+  ],
+  "Reelz.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "REELZ.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "REELZ.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "REELZ.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Reelz.us"
+    },
+    {
+      "source": "unitedstates8",
+      "source_id": "REELZ.us"
+    }
+  ],
+  "Revolt.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Revolt.us"
+    }
+  ],
+  "Revry.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Revry.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991296"
+    }
+  ],
+  "Ridiculousness.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Ridiculousness.us"
+    }
+  ],
+  "RiffTrax.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "RiffTrax.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991106"
+    }
+  ],
+  "Roar.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Roar.us"
+    }
+  ],
+  "RyanandFriends.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Ryan and Friends.us"
+    }
+  ],
+  "S4C.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "S4C.uk"
+    }
+  ],
+  "SECNetwork.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "SEC Network.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "SEC Network.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "SEC Network.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "SEC Network HD.us"
+    }
+  ],
+  "SNLVault.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951236"
+    }
+  ],
+  "SalemNewsChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Salem News Channel.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951283"
+    }
+  ],
+  "ScrippsNews.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Scripps News.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Scripps News.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "Scripps News HD.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991148"
+    }
+  ],
+  "ShopLC.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Shop LC.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "SHOPLC.us"
+    },
+    {
+      "source": "unitedstates4",
+      "source_id": "Shop LC.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991370"
+    }
+  ],
+  "SitcomLegends.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Sitcom Legends.us"
+    }
+  ],
+  "SketchyAF.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Sketchy AF.us"
+    }
+  ],
+  "SkyRacing1.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "SkyRacing1.au"
+    }
+  ],
+  "SkyRacing2.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "SkyRacing2.au"
+    }
+  ],
+  "SkySportsF1.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "SkySportsF1.uk"
+    }
+  ],
+  "SmashTV.mt@SD": [
+    {
+      "source": "malta1",
+      "source_id": "Smash TV.mt"
+    }
+  ],
+  "SmithsonianChannelSelects.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Smithsonian Channel Selects.us"
+    }
+  ],
+  "SpikeOutdoors.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Spike Outdoors.us"
+    }
+  ],
+  "SpikePlutoTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Spike Pluto TV.us"
+    }
+  ],
+  "Sportitalia.it@SD": [
+    {
+      "source": "italy3",
+      "source_id": "Sportitalia.it"
+    }
+  ],
+  "SportsGrid.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "SportsGrid HD.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951586"
+    }
+  ],
+  "Stadium.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "Stadium HD.us"
+    }
+  ],
+  "StarTrek.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Star Trek.us"
+    }
+  ],
+  "StarTrekDeepSpaceNine.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Star Trek: Deep Space Nine.us"
+    }
+  ],
+  "StarTrekTheNextGeneration.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Star Trek: The Next Generation.us"
+    }
+  ],
+  "StarTrekVoyager.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Star Trek: Voyager.us"
+    }
+  ],
+  "StoriesbyAMC.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Stories by AMC.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991622"
+    }
+  ],
+  "Super.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "Super!.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Super.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Super!.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Super!.it"
+    }
+  ],
+  "SuperTennis.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "SuperTennis HD.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "SuperTennis.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "SuperTennis.it"
+    }
+  ],
+  "SupernaturalDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Supernatural Drama.us"
+    }
+  ],
+  "Survivor.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Survivor.us"
+    }
+  ],
+  "SwerveCombat.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991696"
+    }
+  ],
+  "TBNInspire.us@SD": [
+    {
+      "source": "unitedstates4",
+      "source_id": "TBN Inspire.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "TBN Inspire.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "TBN Inspire HD.us"
+    }
+  ],
+  "TBNUK.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TBNUK.uk"
+    }
+  ],
+  "TGCom24.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "TgCom24 HD.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Tgcom24.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Tgcom24.it"
+    }
+  ],
+  "TJC.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TJC.uk"
+    }
+  ],
+  "TODAYAllDay.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "TODAY All Day.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991245"
+    }
+  ],
+  "TUDN.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "TUDN.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "TUDN HD.us"
+    }
+  ],
+  "TV2000.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "TV2000 HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Tv2000.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "TV2000.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "TV2000.it"
+    }
+  ],
+  "TVLandDrama.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "TV Land Drama.us"
+    }
+  ],
+  "TVLandSitcoms.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "TV Land Sitcoms.us"
+    }
+  ],
+  "TVM.mt@SD": [
+    {
+      "source": "malta1",
+      "source_id": "TVM HD.mt"
+    }
+  ],
+  "TVOne.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TVOne.uk"
+    }
+  ],
+  "TVSN.au@SD": [
+    {
+      "source": "australia",
+      "source_id": "TVSN.au"
+    }
+  ],
+  "TVWarehouse.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TVWarehouse.uk"
+    }
+  ],
+  "TakbeerTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TakbeerTV.uk"
+    }
+  ],
+  "TalkingPicturesTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TalkingPicturesTV.uk"
+    }
+  ],
+  "Tastemade.us@US": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Tastemade.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991202"
+    }
+  ],
+  "TeenMom.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Teen Mom.us"
+    }
+  ],
+  "TeleXitos.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Telexitos.us"
+    }
+  ],
+  "TennisChannel.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "Tennis Channel.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "Tennis Channel.us"
+    }
+  ],
+  "TennisChannel2.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "TennisChannel 2.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951389"
+    }
+  ],
+  "Thats70s.uk@HD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Thats70s.uk"
+    }
+  ],
+  "Thats70s.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "Thats70s.uk"
+    }
+  ],
+  "ThatsTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "ThatsTV.uk"
+    }
+  ],
+  "TheAddamsFamily.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Addams Family.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951578"
+    }
+  ],
+  "TheAmazingRace.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Amazing Race.us"
+    }
+  ],
+  "TheAndyGriffithShow.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Andy Griffith Show.us"
+    }
+  ],
+  "TheAsylum.us@US": [
+    {
+      "source": "xumo",
+      "source_id": "99991331"
+    }
+  ],
+  "TheBobRossChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Bob Ross Channel.us"
+    }
+  ],
+  "TheCarolBurnettShow.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951380"
+    }
+  ],
+  "TheChallenge.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Challenge.us"
+    }
+  ],
+  "TheConners.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951329"
+    }
+  ],
+  "TheDesignNetwork.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "The Design Network.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991390"
+    }
+  ],
+  "TheJamieOliverChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Jamie Oliver Channel.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951153"
+    }
+  ],
+  "TheJudgeJudyChannel.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Judge Judy Channel.us"
+    }
+  ],
+  "TheLoveBoat.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Love Boat.us"
+    }
+  ],
+  "TheNewDetectives.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The New Detectives.us"
+    }
+  ],
+  "ThePetCollective.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Pet Collective.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991174"
+    }
+  ],
+  "ThePriceIsRight.us@HD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Price Is Right.us"
+    }
+  ],
+  "ThePriceIsRightTheBarkerEra.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Price Is Right: The Barker Era.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951125"
+    }
+  ],
+  "TheRifleman.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Rifleman.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951216"
+    }
+  ],
+  "TheWalkingDeadUniverse.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Walking Dead Universe.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991623"
+    }
+  ],
+  "TheWeatherChannel.us@SD": [
+    {
+      "source": "unitedstates5",
+      "source_id": "The Weather Channel.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "The Weather Channel.us"
+    },
+    {
+      "source": "unitedstates10",
+      "source_id": "The Weather Channel.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "The Weather Channel HD.us"
+    }
+  ],
+  "TheWildWildWest.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "The Wild Wild West.us"
+    }
+  ],
+  "TheWordNetwork.us@SD": [
+    {
+      "source": "unitedstates11",
+      "source_id": "The Word Network HD.us"
+    }
+  ],
+  "ThisOldHouse.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "This Old House.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991293"
+    }
+  ],
+  "ThreesCompany.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Three's Company.us"
+    }
+  ],
+  "TinyHouseNation.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Tiny House Nation.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99951472"
+    }
+  ],
+  "TinyPop.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TinyPop.uk"
+    }
+  ],
+  "TogetherTV.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TogetherTV.uk"
+    }
+  ],
+  "ToonGoggles.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991268"
+    }
+  ],
+  "TopCrime.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "TOPcrime HD.it"
+    },
+    {
+      "source": "italy2",
+      "source_id": "Topcrime.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Top Crime.it"
+    },
+    {
+      "source": "italy4",
+      "source_id": "Top Crime.it"
+    }
+  ],
+  "Tosh0.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Tosh.0.us"
+    }
+  ],
+  "TotallyTurtles.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "TOTALLY TURTLES.us"
+    }
+  ],
+  "ToughJobs.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Tough Jobs.us"
+    }
+  ],
+  "TrueCrime.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TrueCrime.uk"
+    }
+  ],
+  "TrueCrimeNetwork.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "True Crime Network.us"
+    }
+  ],
+  "Twentyseven.it@HD": [
+    {
+      "source": "italy2",
+      "source_id": "Twentyseven.it"
+    },
+    {
+      "source": "italy3",
+      "source_id": "Twenty Seven.it"
+    }
+  ],
+  "UnsolvedMysteries.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Unsolved Mysteries.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991680"
+    }
+  ],
+  "VH1QueensofReality.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "VH1 Queens of Reality.us"
+    }
+  ],
+  "Value24TV.it@SD": [
+    {
+      "source": "italy1",
+      "source_id": "VALUE 24 TV.it"
+    }
+  ],
+  "Vevo2K.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo 2K.us"
+    }
+  ],
+  "Vevo70s.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo '70s.us"
+    }
+  ],
+  "Vevo80s.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo '80s.us"
+    }
+  ],
+  "Vevo90s.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo '90s.us"
+    }
+  ],
+  "VevoCountry.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo Country.us"
+    }
+  ],
+  "VevoPop.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo Pop.us"
+    }
+  ],
+  "VevoTrueSchoolHipHop.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Vevo True School Hip Hop.us"
+    }
+  ],
+  "WaypointTV.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991358"
+    }
+  ],
+  "WeatherNation.us@SD": [
+    {
+      "source": "unitedstates10",
+      "source_id": "WeatherNation.us"
+    }
+  ],
+  "WeedsNurseJackie.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951535"
+    }
+  ],
+  "WesternTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Western TV.us"
+    }
+  ],
+  "WildNOut.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Wild 'N Out.us"
+    }
+  ],
+  "Willow.us@SD": [
+    {
+      "source": "unitedstates1",
+      "source_id": "WILLOW.us"
+    },
+    {
+      "source": "unitedstates2",
+      "source_id": "WILLOW.us"
+    },
+    {
+      "source": "unitedstates6",
+      "source_id": "WILLOW.us"
+    },
+    {
+      "source": "unitedstates7",
+      "source_id": "Willow.us"
+    }
+  ],
+  "WillowSports.us@HD": [
+    {
+      "source": "xumo",
+      "source_id": "99951406"
+    }
+  ],
+  "WillowSports.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99951406"
+    }
+  ],
+  "WomensSportsNetwork.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Women's Sports Network.us"
+    }
+  ],
+  "WorldChannel.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "World Channel.us"
+    }
+  ],
+  "WorldPokerTour.us@US": [
+    {
+      "source": "unitedstates9",
+      "source_id": "World Poker Tour.us"
+    },
+    {
+      "source": "xumo",
+      "source_id": "99991317"
+    }
+  ],
+  "YesNetwork.us@SD": [
+    {
+      "source": "unitedstates7",
+      "source_id": "YES Network.us"
+    },
+    {
+      "source": "unitedstates11",
+      "source_id": "YES Network HD.us"
+    }
+  ],
+  "YoMTV.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Yo! MTV.us"
+    }
+  ],
+  "YuGiOh.us@SD": [
+    {
+      "source": "unitedstates9",
+      "source_id": "Yu Gi Oh!.us"
+    }
+  ],
+  "beINSPORTSXTRA.us@SD": [
+    {
+      "source": "xumo",
+      "source_id": "99991387"
+    }
+  ],
+  "talkSPORT.uk@SD": [
+    {
+      "source": "unitedkingdom",
+      "source_id": "TalkSport.uk"
+    }
+  ]
 }
 
